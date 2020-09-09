@@ -1,0 +1,1 @@
+print("\tsaisai\n\tsaisai")
